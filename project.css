@@ -1,0 +1,71 @@
+.intro_block {
+  background-image: url('/feride/images/autopark.png');
+  background-size: 100% 100%;
+  height: 600px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 30px;
+}
+
+.complaint {
+  width: 60%;
+  padding: 40px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(36, 195, 248);
+}
+
+.driver{
+  width: 400px;
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(36, 195, 248);  
+}
+
+.schedule{
+  width: 400px;
+  padding: 20px;
+  background-color: rgb(82, 212, 255);
+}
+
+.route {
+  width: 400px;
+  padding: 20px;
+  background-color: rgb(82, 212, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+.admin-route {
+  width: 70%;
+  margin: 30px auto;
+  padding: 40px 20px;
+  background-color: rgb(82, 212, 255);
+
+
+}
+
+.route img {
+  width: 100%;
+}
+
+
+
+.login {
+  background-color: rgb(48, 203, 255);
+  margin: 20vh auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  border-radius: 10px;
+  color: white;
+  width: 50%;
+}
+
